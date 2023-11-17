@@ -3,9 +3,9 @@
 # dependencies
 /node_modules
 
-/.env
+# /.env
 
 
-# misc
-.env
+# # misc
+# .env
 
